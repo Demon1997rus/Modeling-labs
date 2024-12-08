@@ -34,9 +34,3 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 4. Для работы с вентилятором (RPM) на Linux убедитесь, что установлена утилита lm-sensors:
-```bash
-sudo apt install lm-sensors
-sudo sensors-detect
-sensors
-```
