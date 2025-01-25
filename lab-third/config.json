@@ -1,0 +1,8 @@
+{
+    "task1": {
+      "types": [1, 2, 3],
+      "probabilities": [0.77, 0.06, 0.17],
+      "num_messages": 100,
+      "results_dir": "task-first-results"
+    }
+  }
